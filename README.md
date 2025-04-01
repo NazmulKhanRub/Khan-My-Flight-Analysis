@@ -29,6 +29,5 @@ This project is a testament to my expertise in data visualization, business inte
 - Experience in data cleaning, feature engineering, and dashboard creation.
 - A keen eye for storytelling through data, making insights easy to understand for decision-makers.
 
-🔗 **[View the Project in My Portfolio](#)**  
 📩 Feel free to connect with me on LinkedIn or GitHub for collaboration and opportunities!
 
